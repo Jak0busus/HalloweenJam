@@ -1,3 +1,3 @@
 # HalloweenJam
 
-! images/recipes.png
+!images/recipes.png
