@@ -1,5 +1,13 @@
 # HalloweenJam
 
+My idea was to make a complete new gamemode in which the player has to survive 4 waves 
+(1wave=2min, 2wave=4min, 3wave=8min & 4wave=16min). 
+
+In the beginning, the player has to equip himself by looting chests from the different structures. 
+All items are Halloween themed like candy armor or pumpkin tools. 
+At night during the waves there is the possibility for jumpscares or other things to happen. 
+The monsters are controlled via the plugin too.
+
 ![1]
 ![2]
 ![3]
